@@ -1,0 +1,5 @@
+com/zipcode/processor/ZipcodeMerger.class
+com/zipcode/processor/ZipcodeProcessor.class
+com/zipcode/processor/Zipcode.class
+com/zipcode/processor/ZipcodeComparator.class
+com/zipcode/processor/App.class
