@@ -56,4 +56,7 @@ For instance input [94133,94133] [94200,94299] [94600,94699] as whole under a st
 1) Used DataFactory to generate data sets
 2) Wrote Junit tests to validate different scenarios  of input
 
+# Sample outputs:
 
+  ![alt text](Screenshot from 2018-02-25 12-38-26.png)
+  
