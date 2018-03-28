@@ -41,7 +41,7 @@ Your work will be evaluated against the following criteria:
 1) Assumed input to come as String
 For instance input [94133,94133] [94200,94299] [94600,94699] as whole under a string.
 
-# DataStructures uded:
+# DataStructures used:
 1) LinkedList - For now, used 2 linkedlist, one for storing the input and the other for storing the output. Future work will be to use only one LinkedList for doing merge operation.
 2) Created maven project to help entension of this project for future work
 
